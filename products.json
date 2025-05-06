@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Reusable Water Bottle",
+        "price": 12.99,
+        "cost": 4.50,
+        "aliexpress_link": "https://www.aliexpress.com/store/dropshipping",
+        "image": "water_bottle.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Natural Skin Serum",
+        "price": 10.99,
+        "cost": 3.00,
+        "aliexpress_link": "https://www.aliexpress.com/store/dropshipping",
+        "image": "serum.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Custom Dog Mom T-Shirt",
+        "price": 15.99,
+        "cost": 5.50,
+        "aliexpress_link": "https://www.aliexpress.com/store/dropshipping",
+        "image": "tshirt.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Microwave Cleaner",
+        "price": 8.99,
+        "cost": 2.00,
+        "aliexpress_link": "https://www.aliexpress.com/store/dropshipping",
+        "image": "cleaner.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pepper Spray Keychain",
+        "price": 10.99,
+        "cost": 2.50,
+        "aliexpress_link": "https://www.aliexpress.com/store/dropshipping",
+        "image": "keychain.jpg"
+    }
+]
